@@ -40,6 +40,6 @@ Path finding process will be visualized with each algorithm. The output metric w
 type = randomUAV, num_of_uavs = 7, time = 62.449999999997736, cost = 313435.79999999324, data = 
  [{0: 0}]
 ```
-Here we have ```type``` show algorithm is used in the test, ```num_of_uavs``` represent number of uavs, ```time``` represent the total time the algorithm takes. ```cost``` represent the total time to each uav with difference priority. 
+Here we have ```type``` show used algorithm in the test, ```num_of_uavs``` represent number of uavs, ```time``` represent the total time the algorithm takes, ```cost``` represent the total time to each uav with difference priority. 
 # Reference
 Tsunami: https://www.researchgate.net/publication/379603814_Tsunami_Scalable_Fault_Tolerant_Coverage_Path_Planning_for_UAV_Swarms 
