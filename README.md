@@ -7,12 +7,12 @@ The application is visualized using pygame. The purpose of some important code f
 In the folder ```simulation-scenarios```, we have the code to visualize each algorithm. The name of each file corresponding to the name of the algorithm run by the file.
 
 # How to use
-## Create test
 + Before using the project, make sure you have python installed on your computer.
 + Install requirement:
 ```
 pip install numpy==2.2.3 pygame==2.6.1
 ```
+## Create test
 + To use the project, we first need to create a test. To do this, we can run ```gen_test.py``` by:
 ```
 python gen_test.py
